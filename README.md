@@ -1,4 +1,5 @@
-run on php server
+Servers
+use ssh server use Cloudflare server first, start the php server on localhost then expose localhost to the internet
 
-php -S localhost:8080
-then expose localhost to internet use SSH & Cloudflare
+Conatcs and Social
+WhatsApp +923348361065 Youtube https://youtube.com/@cybersecurityteampk
