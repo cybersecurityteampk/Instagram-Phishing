@@ -1,5 +1,13 @@
-Servers
-use ssh server use Cloudflare server first, start the php server on localhost then expose localhost to the internet
+# 🌐 Exposing Localhost to the Internet with SSH and Cloudflare
 
-Conatcs and Social
-WhatsApp +923348361065 Youtube https://youtube.com/@cybersecurityteampk
+> A quick guide to start a PHP server on localhost, and then expose it to the internet using an SSH server and Cloudflare. Perfect for secure testing and demonstrations!
+
+---
+
+## 🚀 Getting Started
+
+### 1. Start PHP Server on Localhost
+To initiate a PHP server locally, navigate to your project directory and run the following command:
+
+```bash
+php -S localhost:8080
